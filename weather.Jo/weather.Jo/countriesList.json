@@ -1,0 +1,540 @@
+[{
+        "timezones": [
+            "Asia/Kabul"
+        ],
+        "latlng": [
+            33,
+            65
+        ],
+        "name": "Afghanistan",
+        "country_code": "AF",
+        "capital": "Kabul"
+    },
+    {
+        "timezones": [
+            "Europe/Tirane"
+        ],
+        "latlng": [
+            41,
+            20
+        ],
+        "name": "Albania",
+        "country_code": "AL",
+        "capital": "Tirana"
+    }, {
+        "timezones": [
+            "Africa/Algiers"
+        ],
+        "latlng": [
+            28,
+            3
+        ],
+        "name": "Algeria",
+        "country_code": "DZ",
+        "capital": "Algiers"
+    }, {
+        "timezones": [
+            "Asia/Baku"
+        ],
+        "latlng": [
+            40.5,
+            47.5
+        ],
+        "name": "Azerbaijan",
+        "country_code": "AZ",
+        "capital": "Baku"
+    }, {
+        "timezones": [
+            "Asia/Bahrain"
+        ],
+        "latlng": [
+            26,
+            50.55
+        ],
+        "name": "Bahrain",
+        "country_code": "BH",
+        "capital": "Manama"
+    }, {
+        "timezones": [
+            "Asia/Dhaka"
+        ],
+        "latlng": [
+            24,
+            90
+        ],
+        "name": "Bangladesh",
+        "country_code": "BD",
+        "capital": "Dhaka"
+    },
+    {
+        "timezones": [
+            "Europe/Sarajevo"
+        ],
+        "latlng": [
+            44,
+            18
+        ],
+        "name": "Bosnia and Herzegovina",
+        "country_code": "BA",
+        "capital": "Sarajevo"
+    },
+    {
+        "timezones": [
+            "Asia/Brunei"
+        ],
+        "latlng": [
+            4.5,
+            114.66666666
+        ],
+        "name": "Brunei",
+        "country_code": "BN",
+        "capital": "Bandar Seri Begawan"
+    }, {
+        "timezones": [
+            "Africa/Ndjamena"
+        ],
+        "latlng": [
+            15,
+            19
+        ],
+        "name": "Chad",
+        "country_code": "TD",
+        "capital": "N'Djamena"
+    }, {
+        "timezones": [
+            "Indian/Comoro"
+        ],
+        "latlng": [-12.16666666,
+            44.25
+        ],
+        "name": "Comoros",
+        "country_code": "KM",
+        "capital": "Moroni"
+    }, {
+        "timezones": [
+            "Africa/Djibouti"
+        ],
+        "latlng": [
+            11.5,
+            43
+        ],
+        "name": "Djibouti",
+        "country_code": "DJ",
+        "capital": "Djibouti"
+    }, {
+        "timezones": [
+            "Africa/Cairo"
+        ],
+        "latlng": [
+            27,
+            30
+        ],
+        "name": "Egypt",
+        "country_code": "EG",
+        "capital": "Cairo"
+    },
+    {
+        "timezones": [
+            "Africa/Banjul"
+        ],
+        "latlng": [
+            13.46666666, -16.56666666
+        ],
+        "name": "Gambia",
+        "country_code": "GM",
+        "capital": "Banjul"
+    }, {
+        "timezones": [
+            "Africa/Bissau"
+        ],
+        "latlng": [
+            12, -15
+        ],
+        "name": "Guinea Bissau",
+        "country_code": "GW",
+        "capital": "Bissau"
+    },
+    {
+        "timezones": [
+            "Asia/Jakarta",
+            "Asia/Pontianak",
+            "Asia/Makassar",
+            "Asia/Jayapura"
+        ],
+        "latlng": [-5,
+            120
+        ],
+        "name": "Indonesia",
+        "country_code": "ID",
+        "capital": "Jakarta"
+    }, {
+        "timezones": [
+            "Asia/Tehran"
+        ],
+        "latlng": [
+            32,
+            53
+        ],
+        "name": "Iran",
+        "country_code": "IR",
+        "capital": "Tehran"
+    }, {
+        "timezones": [
+            "Asia/Baghdad"
+        ],
+        "latlng": [
+            33,
+            44
+        ],
+        "name": "Iraq",
+        "country_code": "IQ",
+        "capital": "Baghdad"
+    }, {
+        "timezones": [
+            "Asia/Amman"
+        ],
+        "latlng": [
+            31,
+            36
+        ],
+        "name": "Jordan",
+        "country_code": "JO",
+        "capital": "Amman"
+    }, {
+        "timezones": [
+            "Asia/Almaty",
+            "Asia/Qyzylorda",
+            "Asia/Aqtobe",
+            "Asia/Aqtau",
+            "Asia/Oral"
+        ],
+        "latlng": [
+            48,
+            68
+        ],
+        "name": "Kazakhstan",
+        "country_code": "KZ",
+        "capital": "Astana"
+    }, {
+        "timezones": [
+            "Asia/Kuwait"
+        ],
+        "latlng": [
+            29.5,
+            45.75
+        ],
+        "name": "Kuwait",
+        "country_code": "KW",
+        "capital": "Kuwait City"
+    }, {
+        "timezones": [
+            "Asia/Bishkek"
+        ],
+        "latlng": [
+            41,
+            75
+        ],
+        "name": "Kyrgyzstan",
+        "country_code": "KG",
+        "capital": "Bishkek"
+    }, {
+        "timezones": [
+            "Asia/Beirut"
+        ],
+        "latlng": [
+            33.83333333,
+            35.83333333
+        ],
+        "name": "Lebanon",
+        "country_code": "LB",
+        "capital": "Beirut"
+    }, {
+        "timezones": [
+            "Africa/Tripoli"
+        ],
+        "latlng": [
+            25,
+            17
+        ],
+        "name": "Libya",
+        "country_code": "LY",
+        "capital": "Tripoli"
+    }, {
+        "timezones": [
+            "Asia/Kuala_Lumpur",
+            "Asia/Kuching"
+        ],
+        "latlng": [
+            2.5,
+            112.5
+        ],
+        "name": "Malaysia",
+        "country_code": "MY",
+        "capital": "Kuala Lumpur"
+    }, {
+        "timezones": [
+            "Indian/Maldives"
+        ],
+        "latlng": [
+            3.25,
+            73
+        ],
+        "name": "Maldives",
+        "country_code": "MV",
+        "capital": "Mal\u00e9"
+    },
+    {
+        "timezones": [
+            "Africa/Bamako"
+        ],
+        "latlng": [
+            17, -4
+        ],
+        "name": "Mali",
+        "country_code": "ML",
+        "capital": "Bamako"
+    }, {
+        "timezones": [
+            "Africa/Nouakchott"
+        ],
+        "latlng": [
+            20, -12
+        ],
+        "name": "Mauritania",
+        "country_code": "MR",
+        "capital": "Nouakchott"
+    }, {
+        "timezones": [
+            "Indian/Mayotte"
+        ],
+        "latlng": [-12.83333333,
+            45.16666666
+        ],
+        "name": "Mayotte",
+        "country_code": "YT",
+        "capital": "Mamoudzou"
+    }, {
+        "timezones": [
+            "Africa/Casablanca"
+        ],
+        "latlng": [
+            32, -5
+        ],
+        "name": "Morocco",
+        "country_code": "MA",
+        "capital": "Rabat"
+    }, {
+        "timezones": [
+            "Africa/Niamey"
+        ],
+        "latlng": [
+            16,
+            8
+        ],
+        "name": "Niger",
+        "country_code": "NE",
+        "capital": "Niamey"
+    }, {
+        "timezones": [
+            "Asia/Muscat"
+        ],
+        "latlng": [
+            21,
+            57
+        ],
+        "name": "Oman",
+        "country_code": "OM",
+        "capital": "Muscat"
+    }, {
+        "timezones": [
+            "Asia/Karachi"
+        ],
+        "latlng": [
+            30,
+            70
+        ],
+        "name": "Pakistan",
+        "country_code": "PK",
+        "capital": "Islamabad"
+    }, {
+        "timezones": [
+            "Asia/Gaza",
+            "Asia/Hebron"
+        ],
+        "latlng": [
+            31.9,
+            35.2
+        ],
+        "name": "Palestine",
+        "country_code": "PS",
+        "capital": "Ramallah"
+    }, {
+        "timezones": [
+            "Asia/Qatar"
+        ],
+        "latlng": [
+            25.5,
+            51.25
+        ],
+        "name": "Qatar",
+        "country_code": "QA",
+        "capital": "Doha"
+    }, {
+        "timezones": [
+            "Asia/Riyadh"
+        ],
+        "latlng": [
+            25,
+            45
+        ],
+        "name": "Saudi Arabia",
+        "country_code": "SA",
+        "capital": "Riyadh"
+    }, {
+        "timezones": [
+            "Africa/Dakar"
+        ],
+        "latlng": [
+            14, -14
+        ],
+        "name": "Senegal",
+        "country_code": "SN",
+        "capital": "Dakar"
+    },
+    {
+        "timezones": [
+            "Africa/Freetown"
+        ],
+        "latlng": [
+            8.5, -11.5
+        ],
+        "name": "Sierra Leone",
+        "country_code": "SL",
+        "capital": "Freetown"
+    }, {
+        "timezones": [
+            "Africa/Mogadishu"
+        ],
+        "latlng": [
+            10,
+            49
+        ],
+        "name": "Somalia",
+        "country_code": "SO",
+        "capital": "Mogadishu"
+    }, {
+        "timezones": [
+            "Africa/Khartoum"
+        ],
+        "latlng": [
+            15,
+            30
+        ],
+        "name": "Sudan",
+        "country_code": "SD",
+        "capital": "Khartoum"
+    }, {
+        "timezones": [
+            "Africa/Juba"
+        ],
+        "latlng": [
+            7,
+            30
+        ],
+        "name": "South Sudan",
+        "country_code": "SS",
+        "capital": "Juba"
+    }, {
+        "timezones": [
+            "Asia/Damascus"
+        ],
+        "latlng": [
+            35,
+            38
+        ],
+        "name": "Syria",
+        "country_code": "SY",
+        "capital": "Damascus"
+    }, {
+        "timezones": [
+            "Asia/Dushanbe"
+        ],
+        "latlng": [
+            39,
+            71
+        ],
+        "name": "Tajikistan",
+        "country_code": "TJ",
+        "capital": "Dushanbe"
+    }, {
+        "timezones": [
+            "Africa/Tunis"
+        ],
+        "latlng": [
+            34,
+            9
+        ],
+        "name": "Tunisia",
+        "country_code": "TN",
+        "capital": "Tunis"
+    }, {
+        "timezones": [
+            "Europe/Istanbul"
+        ],
+        "latlng": [
+            39,
+            35
+        ],
+        "name": "Turkey",
+        "country_code": "TR",
+        "capital": "Ankara"
+    }, {
+        "timezones": [
+            "Asia/Ashgabat"
+        ],
+        "latlng": [
+            40,
+            60
+        ],
+        "name": "Turkmenistan",
+        "country_code": "TM",
+        "capital": "Ashgabat"
+    },
+    {
+        "timezones": [
+            "Asia/Dubai"
+        ],
+        "latlng": [
+            24,
+            54
+        ],
+        "name": "United Arab Emirates",
+        "country_code": "AE",
+        "capital": "Abu Dhabi"
+    }, {
+        "timezones": [
+            "Asia/Samarkand",
+            "Asia/Tashkent"
+        ],
+        "latlng": [
+            41,
+            64
+        ],
+        "name": "Uzbekistan",
+        "country_code": "UZ",
+        "capital": "Tashkent"
+    }, {
+        "timezones": [
+            "Asia/Aden"
+        ],
+        "latlng": [
+            15,
+            48
+        ],
+        "name": "Yemen",
+        "country_code": "YE",
+        "capital": "Sana'a"
+    },
+
+
+]
