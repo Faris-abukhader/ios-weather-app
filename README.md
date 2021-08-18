@@ -8,6 +8,7 @@ Api used is Openweather , for calling the api just open getData file then from g
 
 Beside getting current location weather info also there is a limited list of countries inside countriesList.json file you can add your own list.
 
+All the icon is animated icon used lottie animation.
 
 Launching Screen was custom one , you can edit it as you want from struct loadingView.
 
